@@ -1,1 +1,2 @@
-测试新建文件
+%测试新建文件%
+can not edit in Chinese!
